@@ -1,3 +1,3 @@
 # calculator
 
-https://nurcanbazz.github.io/calculator/
+You can view the project via this link https://nurcanbazz.github.io/calculator/
